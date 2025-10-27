@@ -3,6 +3,7 @@
 
 # Logs
 nginx/logs/
+www/pathLog.txt
 *.log
 
 # Submodule
